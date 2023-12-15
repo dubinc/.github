@@ -14,7 +14,7 @@
     <br />
     <a href="https://dub.co">Website</a>
     ·
-    <a href="https://dub.sh/issues">Issues</a>
+    <a href="https://github.com/dubinc/dub/issues">Feedback</a>
     ·
     <a href="https://dub.co/docs">Documentation</a>
   </p>
